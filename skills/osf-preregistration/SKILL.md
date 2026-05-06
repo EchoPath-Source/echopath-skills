@@ -5,7 +5,7 @@ version: 0.1.0
 status: lite
 license: CC-BY-NC-4.0
 marketplace: clawhub
-paid_version: Gumroad link pending
+paid_version: https://echopathxr.gumroad.com/l/osf-pre-registration-generator
 summary: Guide a researcher through drafting an OSF-ready pre-registration plan before data collection.
 tags:
   - research
@@ -117,6 +117,10 @@ Before finalizing, check:
 - Is the analysis plan specific enough to prevent p-hacking?
 - Are exploratory analyses labeled as exploratory?
 - Are assumptions and limitations stated?
+
+## Paid expanded version
+
+Expanded Gumroad version: https://echopathxr.gumroad.com/l/osf-pre-registration-generator
 
 ## Completion behavior
 
