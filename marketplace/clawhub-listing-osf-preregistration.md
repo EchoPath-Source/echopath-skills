@@ -30,7 +30,7 @@ research, open science, OSF, preregistration, reproducibility, independent resea
 
 ## Paid version CTA
 
-Get the expanded Gumroad version: link pending
+Get the expanded Gumroad version: https://echopathxr.gumroad.com/l/osf-pre-registration-generator
 
 ## Limitation note
 
