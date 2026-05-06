@@ -32,7 +32,7 @@ The free version includes the core workflow, phase outline, and quality checklis
 
 The paid Gumroad version may include expanded prompts, complete templates, examples, checklists, and update files.
 
-**Gumroad:** add the product link here once finalized.
+**Gumroad:** https://echopathxr.gumroad.com/l/osf-pre-registration-generator
 
 ## Important note
 
