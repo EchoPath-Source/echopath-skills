@@ -9,6 +9,8 @@ This repository is structured as a marketplace-ready directory of lightweight AI
 | Skill | Status | Purpose |
 |---|---:|---|
 | [OSF Pre-Registration Generator](skills/osf-preregistration/) | Free / Lite | Helps independent researchers draft clearer OSF-ready pre-registration plans before data collection. |
+| [XR Evidence-to-Pilot Synthesis Builder](skills/literature-synthesis/) | Free / Lite | Turns XR evidence and pilot notes into decision-ready validation syntheses. |
+| [XR Pilot Brief Architect](skills/creator-project-brief/) | Free / Lite | Converts XR concepts into scoped, execution-ready pilot briefs with KPIs and decision gates. |
 
 ## Repository structure
 
