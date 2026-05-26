@@ -9,6 +9,8 @@ This repository is structured as a marketplace-ready directory of lightweight AI
 | Skill | Status | Purpose |
 |---|---:|---|
 | [OSF Pre-Registration Generator](skills/osf-preregistration/) | Free / Lite | Helps independent researchers draft clearer OSF-ready pre-registration plans before data collection. |
+| [Literature Synthesis Builder](skills/literature-synthesis/) | Free / Lite | Turns source notes and papers into structured, balanced literature syntheses. |
+| [Creator Project Brief Architect](skills/creator-project-brief/) | Free / Lite | Converts loose project ideas into execution-ready briefs with milestones and risk planning. |
 
 ## Repository structure
 
