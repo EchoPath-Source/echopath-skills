@@ -1,13 +1,13 @@
-# XR Pilot Brief Architect (Lite)
+# Creator Project Brief Architect (Lite)
 
-Use this skill when you need to turn an XR concept into a scoped pilot plan your team can execute.
+Use this skill when you have an idea but need an actionable plan to ship.
 
 ## Best for
 
-- Campus/venue wayfinding pilots
-- Immersive training proofs of concept
-- Gameplay and interactive environment experiments
+- Solo creator projects
+- Small product experiments
+- Content + build hybrids
 
 ## Lite scope
 
-This free version provides brief structure, intake prompts, and planning logic. Expanded versions may include vertical-specific pilot templates and KPI dashboards.
+This free version provides concise brief structure and planning logic. Expanded versions may include niche templates, launch checklists, and KPI dashboards.

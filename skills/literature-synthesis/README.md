@@ -1,13 +1,13 @@
-# XR Evidence-to-Pilot Synthesis Builder (Lite)
+# Literature Synthesis Builder (Lite)
 
-Use this skill to convert XR notes, references, and pilot observations into a concise recommendation package.
+Use this skill to convert raw research notes and references into a clear synthesis you can use for proposals, introductions, and strategic research planning.
 
 ## Best for
 
-- XR teams preparing pilot proposals
-- Early customer discovery in spatial computing
-- Go/no-go decisions for navigation and flow features
+- Early-stage literature reviews
+- Mapping disagreements in a field
+- Building rationale sections for new studies
 
 ## Lite scope
 
-This free version provides structure, prompts, and synthesis logic. Expanded versions may include domain-specific pilot scorecards and proposal templates.
+This free version provides the synthesis structure and QA checklist. Paid/expanded versions may include discipline-specific templates, rubric scoring, and worked examples.
